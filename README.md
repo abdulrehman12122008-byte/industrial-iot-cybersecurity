@@ -1,2 +1,8 @@
-# industrial-iot-cybersecurity
-Industrial IoT Cybersecurity Analyzer is a web-based application that evaluates the cybersecurity risk of Industrial IoT systems. It analyzes factors such as device count, encryption, firewall protection, and password strength to generate a risk score and provide security recommendations.
+# Industrial IoT Cybersecurity Analyzer
+
+A web application for assessing cybersecurity risks in Industrial IoT (IIoT) systems and providing security recommendations.
+
+Developed By:
+- 25-ME-151
+- 25-ME-155
+- 25-ME-159
